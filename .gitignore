@@ -1,3 +1,8 @@
+/.workspace/
+/node_modules/
+/invoice.pdf
+
+
 # Logs
 logs
 *.log
